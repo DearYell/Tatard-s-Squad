@@ -3,4 +3,4 @@ pandas
 textblob
 spacy
 python-download
-en-core-web-sm
+python-en_core_web_sm
