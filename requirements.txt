@@ -1,4 +1,5 @@
+streamlit
 pandas
 textblob
 spacy
-python-download
+python-download-en_core_web_sm
