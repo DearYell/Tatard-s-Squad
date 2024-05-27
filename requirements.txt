@@ -2,4 +2,5 @@ streamlit
 pandas
 textblob
 spacy
-python-download-en-core-web-sm
+python-download
+en-core-web-sm
